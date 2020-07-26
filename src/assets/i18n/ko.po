@@ -5,16 +5,16 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid " Built-in Groups"
-msgstr ""
+msgstr "빌트인 그룹"
 
 msgid " Builtin Users"
-msgstr ""
+msgstr "빌트인 유저"
 
 msgid " Check Notifications for more details."
-msgstr ""
+msgstr "자세한 내용은 일림을 확인하십시오."
 
 msgid " Download Updates"
-msgstr ""
+msgstr "업데이트 다운로드"
 
 msgid " First data vdev is a "
 msgstr ""
@@ -29,10 +29,10 @@ msgid " KiB."
 msgstr ""
 
 msgid " Plugin"
-msgstr ""
+msgstr "플러그인"
 
 msgid " Service"
-msgstr ""
+msgstr "서비스"
 
 msgid ""
 " When the <b>UPS Mode</b> is set to <i>slave</i>. Enter the open network "
@@ -52,7 +52,7 @@ msgid ""
 msgstr ""
 
 msgid " and "
-msgstr ""
+msgstr "그리고"
 
 msgid " and will be disrupted if the pool is detached:"
 msgstr ""
@@ -132,7 +132,7 @@ msgid " updated."
 msgstr ""
 
 msgid "% of all cores"
-msgstr ""
+msgstr "모든 코어의 %"
 
 msgid ""
 "' is encrypted! If the passphrase for this encrypted pool has been lost, "
@@ -142,25 +142,25 @@ msgid ""
 msgstr ""
 
 msgid "'. All data on that pool was destroyed."
-msgstr ""
+msgstr "해당 풀의 모든 데이터가 삭제되었습니다."
 
 msgid "(24 Hours)"
 msgstr ""
 
 msgid "(Examples: 500 KiB, 500M, 2 TB)"
-msgstr ""
+msgstr "(예: 500kiB, 500M, 2TB)"
 
 msgid "(Legacy Encryption)"
-msgstr ""
+msgstr "(레거시 암호화)"
 
 msgid "(No description)"
-msgstr ""
+msgstr "(설명 없음)"
 
 msgid "(Remove pool from database)"
-msgstr ""
+msgstr "(데이터베이스에서 풀 제거)"
 
 msgid "(top-right), then"
-msgstr ""
+msgstr "(오른쪽 상단), 그리고"
 
 msgid ", new Metadata vdev is a "
 msgstr ""
@@ -208,10 +208,10 @@ msgid "</i> now?"
 msgstr ""
 
 msgid "</i> stopped."
-msgstr ""
+msgstr "</i> 중지되었습니다."
 
 msgid "</i> updated."
-msgstr ""
+msgstr "</i> 업데이트되었습니다."
 
 msgid "</i>. Data on the pool will not be accessible until the pool is unlocked."
 msgstr ""
